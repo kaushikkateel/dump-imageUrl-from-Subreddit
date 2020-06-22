@@ -1,11 +1,13 @@
 import praw
 
 #get client information from reddit 
-r = praw.Reddit(client_id='',
-				client_secret= '',
-				username= '',
-				password= '',
-				user_agent='')
+r = praw.Reddit(
+		client_id='',
+		client_secret= '',
+		username= '',
+		password= '',
+		user_agent=''
+	       )
 
 #subreddit name
 subR = r.subreddit('aww')
