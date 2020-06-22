@@ -5,7 +5,7 @@
 Python
 praw
 ```
-get client_id & client_secret by logging in to your reddit 
+get `client_id` & `client_secret` by logging in to your reddit 
 and creating a new app.
 
 ### Reference
