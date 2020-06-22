@@ -1,4 +1,4 @@
-## image-url-from-Subreddit-dumper
+## Dump image urls from a subreddit
 
 ## Requirements
 ```
