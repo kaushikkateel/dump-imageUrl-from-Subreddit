@@ -11,4 +11,4 @@ and creating a new app.
 
 
 ### Reference
-https://youtu.be/NRgfgtzIhBQ
+[video](https://youtu.be/NRgfgtzIhBQ?t=48)
