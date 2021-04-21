@@ -1,6 +1,6 @@
 ## Dump image urls from a subreddit
 
-## Requirements
+## Requirements:
 ```
 Python
 praw (pip install praw)
@@ -10,5 +10,5 @@ get `client_id` & `client_secret` by logging in to your reddit
 and creating a new app.
 
 
-### Reference
+### Reference:
 [video](https://youtu.be/NRgfgtzIhBQ?t=48)
