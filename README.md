@@ -9,6 +9,4 @@ update [credentials.json](https://github.com/kaushikkateel/dump-imageUrl-from-Su
 get `client_id` & `client_secret` by logging in to your reddit 
 and creating a new app.
 
-
-### Reference:
-[video](https://youtu.be/NRgfgtzIhBQ?t=48)
+[how to create a new app](https://youtu.be/NRgfgtzIhBQ?t=48)
